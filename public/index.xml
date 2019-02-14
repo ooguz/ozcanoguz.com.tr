@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Özcan Oğuz</title>
+    <link>/</link>
+    <description>Recent content on Özcan Oğuz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Sun, 28 Oct 2018 23:04:22 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>portfolyo</title>
+      <link>/portfolio/</link>
+      <pubDate>Sun, 28 Oct 2018 23:04:22 +0300</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>2016 Nisan, Editör-Eğitmen @Abaküs Kitap, Nisan&amp;rsquo;16-Ekim&amp;rsquo;17
+Ekim, Silikon Vadisi Kanyon&amp;rsquo;da, Mentor
+Aralık, Çırak Dergisi #1, S. Yazı İşleri Müdürü
+2016, CoderDojo @İskele47, Mentor
+2017 Ocak, Akademik Bilişim 2017, Katılımcı
+Mart, Çırak Dergisi #2, S. Yazı İşleri Müdürü
+Mart, Çocuklar için Raspberry Pi ve Python, İlk üç bölüm
+Haziran, Çırak Dergisi &amp;ldquo;yaz&amp;rdquo;, S. Yazı İşleri Müdürü
+Temmuz, GNU/Linux Yaz Kampı, Katılımcı
+Eylül, Çırak Dergisi &amp;ldquo;güz&amp;rdquo;, S. Yazı İşleri Müdürü
+Ekim, Silikon Vadisi Kanyon&amp;rsquo;da, Mentor</description>
+    </item>
+    
+    <item>
+      <title>hakkımda</title>
+      <link>/about/</link>
+      <pubDate>Sun, 28 Oct 2018 22:26:52 +0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>İletişim E-posta: ozcan {güzela} ozgurlesin.org
+GPG: 0x3D975818
+Jabber/XMPP: ooguz {güzela} riseup.net
+Posta: P.K 58 34710 Kadıköy/İstanbul
+Twitter: @ooguz
+Linkler Git: Notabug üzerinde ooguz</description>
+    </item>
+    
+  </channel>
+</rss>

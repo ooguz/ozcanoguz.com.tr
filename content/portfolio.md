@@ -1,0 +1,39 @@
+---
+title: "portfolyo"
+date: 2018-10-28T23:04:22+03:00
+draft: false
+---
+
+## 2016
+
+**Nisan**, Editör-Eğitmen [@Abaküs Kitap](https://abakuskitap.com), Nisan'16-Ekim'17  
+**Ekim**, Silikon Vadisi Kanyon'da, Mentor  
+**Aralık**, [Çırak Dergisi #1](http://cirakdergi.com), S. Yazı İşleri Müdürü  
+
+2016, [CoderDojo](http://coderdojoturkiye.com) [@İskele47](http://iskele47.com), Mentor  
+
+## 2017
+
+**Ocak**, [Akademik Bilişim 2017](http://ab.org.tr/ab17), Katılımcı  
+**Mart**, [Çırak Dergisi #2](http://cirakdergi.com), S. Yazı İşleri Müdürü  
+**Mart**, [Çocuklar için Raspberry Pi ve Python](https://www.abakuskitap.com/Cocuklar-icin-Raspberry-Pi-ve-Python,PR-539.html), İlk üç bölüm  
+**Haziran**, [Çırak Dergisi "yaz"](http://cirakdergi.com), S. Yazı İşleri Müdürü  
+**Temmuz**, [GNU/Linux Yaz Kampı](http://kamp.linux.org.tr), Katılımcı  
+**Eylül**, [Çırak Dergisi "güz"](http://cirakdergi.com), S. Yazı İşleri Müdürü  
+**Ekim**, Silikon Vadisi Kanyon'da, Mentor  
+**Aralık**, [Türkçe için karaliste](https://notabug.org/ooguz/turkce-kufur-karaliste), Yazar  
+**Aralık**, [Hackerspace Istanbul](https://hackerspace.ist), Kurucu  
+
+## 2018
+
+**Ocak**, [usb-wifi-connect](https://notabug.org/ooguz/usb-wifi-connect), Yazar  
+**Şubat**, [Akademik Bilişim 2018](http://ab.org.tr/ab18), Eğitmen (GNU/Linux Sistem Yönetimi 0.5)  
+**Mayıs**, [GNU/Linux ile Tanışma Atölyesi @hs.ist](https://hackerspace.ist/etkinlikler), Eğitmen  
+**Haziran**, [CryptoParty @hs.ist](https://www.cryptoparty.in/istanbul)  
+**Temmuz**, [Mustafa Akgül Özgür Yazılım Yaz Kampı](http://kamp.linux.org.tr), Eğitmen (GNU/Linux Sistem Yönetimi-1)  
+**Eylül**, [Yazılım Özgürlüğü Günü 2018 @TAK](http://yazilimozgurlugugunu.org.tr), Konuşmacı ([Özgür yazılım, özgür toplum](/oyot_sunu.pdf))  
+**Kasım**, [Kem Gözlere Şiş](https://kemgozleresis.org.tr)  
+
+## 2019
+
+**korsⒶn**
