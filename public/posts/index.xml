@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yazılar on Özcan Oğuz</title>
+    <link>/posts/</link>
+    <description>Recent content in yazılar on Özcan Oğuz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Sun, 28 Oct 2018 22:26:52 +0300</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gayrimerkezi bir dünyanın arifesinde iki yeni adım: GNU MediaGoblin ve GNU Taler</title>
+      <link>/posts/bildiri/</link>
+      <pubDate>Thu, 14 Feb 2019 14:46:32 +0300</pubDate>
+      
+      <guid>/posts/bildiri/</guid>
+      <description>Bu bildiri, Akademik Bilişim 2019 için verilmiştir. Buraya tıklayarak bildiriyi PDF formatında indirebilirsiniz.
+Özet: Kişisel verilerin güvenliği, internet özgürlüğü, ifade özgürlüğü ve bunların hepsini kapsayan özgür toplum kavramı gündeme geldiğinde, temel özgürlüklerin ve kişisel mahremiyetin teminini sağlayan yegane araçlar gayrimerkezi yapılardır. Dijital olarak, içinde bulunduğumuz gayrimerkezileşme sürecinde, özellikle son 10 yılda birçok önemli adım atılmıştır. Özgür yazılımlar sayesinde bugün, standart bir son kullanıcı bile rahatlıkla kendi servislerini kolaylıkla ayağa kaldırabilmekte ve yürütebilmektedir.</description>
+    </item>
+    
+  </channel>
+</rss>

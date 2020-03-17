@@ -1,4 +1,4 @@
-baseurl                 = "/"
+baseurl                 = "https://ozcanoguz.com.tr"
 languageCode            = "tr-tr"
 defaultContentLanguage  = "tr"
 isMultilingual          = true
@@ -10,14 +10,14 @@ pygmentsCodefences      = true
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "sam.ico"
+    favicon             = "favicon.ico"
     homepage            = "main"
     galleryFolder       = "images/"
     clickablePhotos     = true
     smallPreviewImages   = true
     smallImagesSubfolder = "small/"                      # The subfolder for the small versions of the images under the gallery (with trailing slash)
                                                          # For each image the small version has to have the same filename as the big version.
-    footerText          = "©2018 Özcan Oğuz. CC BY-SA 4.0"
+    footerText          = "©2018-2020 Özcan Oğuz. CC BY-SA 4.0"
 
 # Metadata
     description         = "Özcan Oğuz'un kişisel web sitesi"            # Max 160 characters show in search results
@@ -36,6 +36,6 @@ pygmentsCodefences      = true
     link = "/posts"
     text = "yazılar"
 
-# [[params.mainMenu]]
-#    link = "/gallery"
-#    text = "galeri"
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "galeri"
