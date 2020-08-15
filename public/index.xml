@@ -1,57 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Özcan Oğuz</title>
-    <link>/</link>
+    <link>https://ozcanoguz.com.tr/</link>
     <description>Recent content on Özcan Oğuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <lastBuildDate>Thu, 14 Feb 2019 14:46:32 +0300</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ozcanoguz.com.tr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gayrimerkezi bir dünyanın arifesinde iki yeni adım: GNU MediaGoblin ve GNU Taler</title>
-      <link>/posts/bildiri/</link>
+      <link>https://ozcanoguz.com.tr/posts/bildiri/</link>
       <pubDate>Thu, 14 Feb 2019 14:46:32 +0300</pubDate>
       
-      <guid>/posts/bildiri/</guid>
+      <guid>https://ozcanoguz.com.tr/posts/bildiri/</guid>
       <description>Bu bildiri, Akademik Bilişim 2019 için verilmiştir. Buraya tıklayarak bildiriyi PDF formatında indirebilirsiniz.
 Özet: Kişisel verilerin güvenliği, internet özgürlüğü, ifade özgürlüğü ve bunların hepsini kapsayan özgür toplum kavramı gündeme geldiğinde, temel özgürlüklerin ve kişisel mahremiyetin teminini sağlayan yegane araçlar gayrimerkezi yapılardır. Dijital olarak, içinde bulunduğumuz gayrimerkezileşme sürecinde, özellikle son 10 yılda birçok önemli adım atılmıştır. Özgür yazılımlar sayesinde bugün, standart bir son kullanıcı bile rahatlıkla kendi servislerini kolaylıkla ayağa kaldırabilmekte ve yürütebilmektedir.</description>
     </item>
     
     <item>
       <title>portfolyo</title>
-      <link>/portfolio/</link>
+      <link>https://ozcanoguz.com.tr/portfolio/</link>
       <pubDate>Sun, 28 Oct 2018 23:04:22 +0300</pubDate>
       
-      <guid>/portfolio/</guid>
-      <description>2016 Nisan, Editör-Eğitmen @Abaküs Kitap, Nisan&amp;rsquo;16-Ekim&amp;rsquo;17
-Ekim, Silikon Vadisi Kanyon&amp;rsquo;da, Mentor
-Aralık, Çırak Dergisi #1, S. Yazı İşleri Müdürü
-2016, CoderDojo @İskele47, Mentor
-2017 Ocak, Akademik Bilişim 2017, Katılımcı
-Mart, Çırak Dergisi #2, S. Yazı İşleri Müdürü
-Mart, Çocuklar için Raspberry Pi ve Python, İlk üç bölüm
-Haziran, Çırak Dergisi &amp;ldquo;yaz&amp;rdquo;, S. Yazı İşleri Müdürü
-Temmuz, GNU/Linux Yaz Kampı, Katılımcı
-Eylül, Çırak Dergisi &amp;ldquo;güz&amp;rdquo;, S. Yazı İşleri Müdürü
-Ekim, Silikon Vadisi Kanyon&amp;rsquo;da, Mentor</description>
+      <guid>https://ozcanoguz.com.tr/portfolio/</guid>
+      <description>2020 Mart, LibrePlanet 2020, Konuşma: In memory of Mustafa Akgül: Free software and political movements in Turkey
+Mart, LibrePlanet 2020, Konuşma: Free software for minorities in Turkey in their own languages
+Mart, GNU/Linux Kurulum Etkinliği, Organizasyon
+Şubat, Vikimaraton Özgür Yazılım, Organizasyon
+Ocak, Mustafa Akgül Özgür Yazılım Kış Kampı, Eğitmen, (Perl ile Programlamaya Giriş, GNU/Linux Sistem Yönetimi 0.5)
+2019 Aralık, 36C3 @Leipzig, Almanya, Konuşma: Free software for minorities in Turkey with their own languages</description>
     </item>
     
     <item>
       <title>hakkımda</title>
-      <link>/about/</link>
+      <link>https://ozcanoguz.com.tr/about/</link>
       <pubDate>Sun, 28 Oct 2018 22:26:52 +0300</pubDate>
       
-      <guid>/about/</guid>
-      <description>İletişim E-posta: ozcan {güzela} ozgurlesin.org
-GPG: 0x3D975818
-Jabber/XMPP: ooguz {güzela} riseup.net
-Posta: P.K 58 34710 Kadıköy/İstanbul
-Twitter: @ooguz
-Linkler Git: Notabug üzerinde ooguz</description>
+      <guid>https://ozcanoguz.com.tr/about/</guid>
+      <description>Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 DX2 makine ile tanıştım. 2007 yılında, Pardus projesinin de etkisiyle özgür yazılım felsefesini öğrendim; o günden beridir özgür yazılımlarla ve GNU/Linux ile içli dışlıyım. Kadıköy Maarif&amp;rsquo;liyim. 2017&amp;rsquo;de Hackerspace Istanbul&amp;lsquo;un kurucularından oldum, hs.ist çatısında 2018&amp;rsquo;de Özgür Yazılım Derneği&amp;lsquo;ni kurduk. Halihazırda Özgür Yazılım Derneği ile çalışmalarımı sürdürüyorum. Mustafa Akgül Özgür Yazılım Kampları&amp;lsquo;nda eğitmenlik yapıyorum. Mümkün olan her alanda özgürlük mücadelesi yürütmeye çalışıyorum.</description>
     </item>
     
   </channel>

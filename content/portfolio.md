@@ -6,6 +6,9 @@ draft: false
 
 ## 2020
 
+**Ağustos**, [CryptoParty Lite](https://cryptoparty.online), Konuşmacı
+**Mayıs**, [ÖzgürKon 2020](https://ozgurkon.org), Organizasyon  
+**Nisan**, [ÖYD Güvenlik Rehberi](https://guvenlik.oyd.org.tr), Yazar  
 **Mart**, [LibrePlanet 2020](https://libreplanet.org/2020), _Konuşma: [In memory of Mustafa Akgül: Free software and political movements in Turkey](https://oyd.org.tr/libreplanet.pdf)_  
 **Mart**, [LibrePlanet 2020](https://libreplanet.org/2020), _Konuşma: [Free software for minorities in Turkey in their own languages](https://oyd.org.tr/libreplanet.pdf)_  
 **Mart**, [GNU/Linux Kurulum Etkinliği](https://twitter.com/oydorgtr/status/1234432169629691904), _Organizasyon_  

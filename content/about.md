@@ -15,6 +15,7 @@ Bilgisayarla daha çok küçükken babamın bit pazarından getirdiği bir i486 
 **XMPP/OMEMO:** ooguz {güzela} riseup.net  
 **Posta:** P.K 58 34710 Kadıköy/İstanbul  
 **Twitter:** [@ooguz](https://twitter.com/ooguz)  
+**PixelFed:** [@ooguz@pixelfed.social](https://pixelfed.social/ooguz)  
 **Çağrı işareti:** TA2OZQ _(eskisi TB2DOO)_
 
 ### Linkler

@@ -1,41 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/bildiri/</loc>
+    <loc>https://ozcanoguz.com.tr/posts/bildiri/</loc>
     <lastmod>2019-02-14T14:46:32+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
+    <loc>https://ozcanoguz.com.tr/</loc>
+    <lastmod>2019-02-14T14:46:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ozcanoguz.com.tr/portfolio/</loc>
     <lastmod>2018-10-28T23:04:22+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://ozcanoguz.com.tr/about/</loc>
     <lastmod>2018-10-28T22:26:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://ozcanoguz.com.tr/posts/</loc>
     <lastmod>2018-10-28T22:26:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>https://ozcanoguz.com.tr/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>https://ozcanoguz.com.tr/gallery/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-02-14T14:46:32+03:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ozcanoguz.com.tr/tags/</loc>
   </url>
   
 </urlset>

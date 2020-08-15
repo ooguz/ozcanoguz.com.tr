@@ -37,5 +37,5 @@ pygmentsCodefences      = true
     text = "yazılar"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "https://pixelfed.social/ooguz"
     text = "galeri"
